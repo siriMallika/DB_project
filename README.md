@@ -4,7 +4,7 @@ stock db --postgres SQL
 
 
 
-# My step
+# ขั้นตอน (My step)
 1. Download DVD Rental Sample Database
 <br>
 The database file is in zipformat ( dvdrental.zip) so you need to extract it to  dvdrental.tar
@@ -24,7 +24,7 @@ The database file is in zipformat ( dvdrental.zip) so you need to extract it to 
 
 
 
-# inference
+# อ้างอิง (reference)
 -- https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 <br>
 -- Data science camp 1
