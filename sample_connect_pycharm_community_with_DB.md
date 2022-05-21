@@ -1,9 +1,9 @@
-22:44  อาจารย์คะ 
-ไปเจอของฟรีอีกอันคะ
+
+ไปเจอของฟรี
 ------------------------------------------------------------
-22:44 database navigator 
+database navigator 
 ใช้ กับ pycharm community ได้ด้วย
-อ.คิดว่ายังไงบ้างคะ จะพอใช้ได้คล้ายกับ ver professional ไหมคะ 
+คิดว่ายังไงบ้างคะ จะพอใช้ได้คล้ายกับ ver professional ไหมคะ 
 
 # ver professional
 <img src="https://github.com/siriMallika/DB_project/blob/main/Screenshot%20(51).png">
