@@ -12,7 +12,7 @@ The database file is in zipformat ( dvdrental.zip) so you need to extract it to 
 
 
 
-# inferrence
+# inference
 -- https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 <br>
 -- Data science camp 1
