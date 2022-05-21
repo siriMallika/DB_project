@@ -22,7 +22,7 @@ The database file is in zipformat ( dvdrental.zip) so you need to extract it to 
 2.4. คลิกปุ่ม Restore
 
 -----
-Next charpter ... SQL on pycharm editor
+Next chapter ... SQL on pycharm editor
 -----
 
 
