@@ -24,7 +24,7 @@ The database file is in zipformat ( dvdrental.zip) so you need to extract it to 
 -----
 Next chapter ... SQL on pycharm editor
 -----
-
+<img src="https://github.com/siriMallika/DB_project/blob/main/Screenshot%20(51).png">
 
 # อ้างอิง (reference)
 -- https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
