@@ -26,6 +26,8 @@ Next chapter ... SQL on pycharm editor
 -----
 <img src="https://github.com/siriMallika/DB_project/blob/main/Screenshot%20(51).png">
 
+(read more)[https://github.com/siriMallika/DB_project/blob/main/sample_connect_pycharm_community_with_DB.md]
+
 # อ้างอิง (reference)
 -- https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 <br>
